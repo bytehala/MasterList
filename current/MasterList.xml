@@ -1,4 +1,47 @@
 <MasterList>
 
+<handlingMethod caption="handling_1">
+<translation languageCode="en" localizedCaption="Handling #1"/>
+<translation languageCode="fr" localizedCaption="HandlingFR #1"/>
+</handlingMethod>
 
-</masterList>
+<handlingMethod 
+caption="handling_2" 
+volumeThreshold="1" 
+volumeThresholdUnit="volume_unit_cbm" 
+weightThreshold="2" 
+weightThresholdUnit="weight_unit_g" 
+volumeConvert="3" 
+volumeConvertUnit="volume_unit_cuft" 
+weightConvert="4" 
+weightConvertUnit="weight_unit_cwt">
+<translation languageCode="en" localizedCaption="Handling #2"/>
+<translation languageCode="fr" localizedCaption="HandlingFR #2"/>
+</handlingMethod>
+
+<handlingMethod
+caption="handling_3" 
+thresholdType="3" 
+volumeThreshold="2" 
+volumeThresholdUnit="volume_unit_cbm" 
+weightThreshold="2" 
+weightThresholdUnit="weight_unit_g" 
+volumeConvert="3" 
+volumeConvertUnit="volume_unit_cuft" 
+weightConvert="4" 
+weightConvertUnit="weight_unit_cwt">
+<translation languageCode="en" localizedCaption="Handling #3"/>
+<translation languageCode="fr" localizedCaption="HandlingFR #3"/>
+</handlingMethod>
+
+<area caption="area_1">
+<translation languageCode="en" localizedCaption="Area #1"/>
+<translation languageCode="fr" localizedCaption="AreaFR #1"/>
+</area>
+
+<article caption="article_1" volume="3" unit="volume_unit_cuft">
+<translation languageCode="en" localizedCaption="Article #1"/>
+<translation languageCode="fr" localizedCaption="ArticleFR #1"/>
+</article>
+
+</MasterList>
