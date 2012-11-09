@@ -21,7 +21,7 @@ weightConvertUnit="weight_unit_cwt">
 
 <handlingMethod
 caption="handling_3" 
-thresholdType="3" 
+thresholdType="2" 
 volumeThreshold="2" 
 volumeThresholdUnit="volume_unit_cbm" 
 weightThreshold="2" 
